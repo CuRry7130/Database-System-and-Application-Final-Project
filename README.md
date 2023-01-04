@@ -8,7 +8,7 @@
 
 ### 运行环境 ##
 
-- Python3.9**(配置Flask.whl与mysqlclient.whl**)
+- Python3.9**(配置Flask.whl与mysqlclient.whl)**
 - MySQL8.0
 
 ### 启动说明 ###
